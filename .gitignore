@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+network_speed_monitor.py
+
+# 本机构建产物；发布版 App 将放在 GitHub Release 中。
+实时网速监控.app/Contents/MacOS/NetworkSpeedMonitor
+实时网速监控.app/Contents/_CodeSignature/
+NetworkSpeedMonitor
+release/
